@@ -1,6 +1,6 @@
 # By Morgan Cupp (mmc274) and Maanav Shah (mcs356)
 # ECE 5725 Final Project: Fitness Tracker
-# completed: May 9, 2022
+# Completed: May 9, 2022
 
 import time
 import RPi.GPIO as GPIO
